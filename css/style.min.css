@@ -52,11 +52,11 @@ button:focus {
 .btn:hover,
 a:hover {
     text-decoration: none;
-    color: #e55900;
+    color: #0c4972;
 }
 
 .nav-link.active {
-    color: #e55900;
+    color: #0c4972;
 }
 
 .btn-icon {
@@ -126,7 +126,7 @@ a:hover {
 
 #navbar-header {
     height: 100px;
-    background: #205bb2;
+    background: #0c4972;
 }
 
 #navbar-header .navbar-nav .dropdown-menu {
@@ -490,7 +490,7 @@ a:hover {
     z-index: 1002;
     top: 0;
     left: 0;
-    background-color: #205bb2;
+    background-color: #0c4972;
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
